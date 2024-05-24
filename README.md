@@ -71,8 +71,8 @@ Welcome to my GitHub repository! <br/>
 - 😄 Pronouns: She/Her
 - 👀 Naturally curious, I love exploring new technologies and solving complex problems.
 - 💡 Passionate about technology in general, particularly automation, infrastructure, and DevOps culture.
-- 📚 Always seeking new knowledge and challenges. <br/>
--⚡ Fun fact: I love solving technical problems and challenges, but I also enjoy a good movie and relaxing with friends.
+- 📚 Always seeking new knowledge and challenges.
+- ⚡ Fun fact: I love solving technical problems and challenges, but I also enjoy a good movie and relaxing with friends.
 
 ### 🛠️ Tools and Technologies <br/>
 Here are some of the tools and technologies I am working with and improving my skills in: <br/>
