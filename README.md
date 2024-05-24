@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório do GitHub! <br/>
 - 😄 Pronomes: Ela/dela. 
 - 👀 Curiosa por natureza, adoro explorar novas tecnologias e resolver problemas complexos. 
 - 💡 Apaixonada por tecnologia em geral, mas em específico a automação, infraestrutura e cultura DevOps. 
-- 📚 Sempre em busca de novos conhecimentos e desafios. 
+- 📚 Sempre em busca de novos conhecimentos e desafios.  
 - ⚡ Fun fact: Adoro resolver problemas e desafios técnicos, mas também curto um bom filme e relaxar com meus amigos. 
 
 ### 🛠️ Ferramentas e Tecnologias <br/>
@@ -71,7 +71,7 @@ Welcome to my GitHub repository! <br/>
 - 😄 Pronouns: She/Her
 - 👀 Naturally curious, I love exploring new technologies and solving complex problems.
 - 💡 Passionate about technology in general, particularly automation, infrastructure, and DevOps culture.
-- 📚 Always seeking new knowledge and challenges.
+- 📚 Always seeking new knowledge and challenges. <br/>
 -⚡ Fun fact: I love solving technical problems and challenges, but I also enjoy a good movie and relaxing with friends.
 
 ### 🛠️ Tools and Technologies <br/>
