@@ -39,8 +39,9 @@ ELK Stack (Elasticsearch, Logstash, Kibana): Coleta, análise e visualização d
 ### 🛠️ CI/CD <br/>
 Jenkins: Integração contínua e entrega contínua. <br/>
 GitLab CI: Pipelines de CI/CD integrados ao GitLab. <br/>
-Travis CI: Serviço de CI/CD. <br/>
-CircleCI: Ferramenta de CI/CD para automação de builds e testes. <br/>
+Git Actions: Serviço de CI/CD. <br/>
+CircleCI: Ferramenta de CI/CD para automação de builds e testes.
+Azure DevOps: Ferramenta que ajuda no ciclo de vida de aplicações de softeware.<br/>
 
 ### 🧰 Ferramentas de Versionamento <br/>
 Git: Controle de versão com Git. <br/>
@@ -102,10 +103,11 @@ Grafana: Metrics visualization and dashboards. <br/>
 ELK Stack (Elasticsearch, Logstash, Kibana): Log collection, analysis, and visualization. <br/>
 
 ### 🛠️ CI/CD <br/>
-Jenkins: Continuous Integration and Continuous Delivery. <br/>
-GitLab CI: CI/CD pipelines integrated with GitLab. <br/>
-Travis CI: CI/CD service. <br/>
-CircleCI: CI/CD tool for build and test automation. <br/>
+Jenkins: Integração contínua e entrega contínua. <br/>
+GitLab CI: Pipelines de CI/CD integrados ao GitLab. <br/>
+Git Actions: Serviço de CI/CD. <br/>
+CircleCI: Ferramenta de CI/CD para automação de builds e testes.
+Azure DevOps: Ferramenta que ajuda no ciclo de vida de aplicações de softeware.<br/>
 
 ### 🧰 Version Control Tools <br/>
 Git: Version control with Git. <br/>
